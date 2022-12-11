@@ -1,0 +1,21 @@
+h1 
+{
+    background-color: black;
+    color: white
+}
+h2,h3,h4
+{
+    background-color: brown;
+    color: blue
+}
+
+p
+{
+    background-color: lightcyan;
+}
+
+ul
+{
+    background-color: beige;
+    color: green
+}
