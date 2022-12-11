@@ -17,5 +17,6 @@ p
 ul
 {
     background-color: beige;
-    color: green
+    color: green;
+    font-size: 30px;
 }
